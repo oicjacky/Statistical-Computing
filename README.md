@@ -29,4 +29,4 @@ In this course, we will review the brief mathematical and statistical knowledge 
 5.  Using **EM algorithm** to solve the maximum likelihood estimation (MLE). See [hw10](https://github.com/oicjacky/Statistical-Computing/blob/master/hw10/hw10.pdf).
 
 6.  In final exam, we discuss more about EM algorithm, the **MCEM** (using Monte Carlo in E-step), and further introduce **Metropolis-Hasting algorithm** which is used to generate random variables by Markov Chain. See [final exam](https://github.com/oicjacky/Statistical-Computing/blob/master/final%20exam/final.pdf). Also, the convergence properties of EM 
-algorithm was reported [here](https://github.com/oicjacky/Statistical-Computing/blob/master/final%20exam/EM%20report/EM%20report.pdf).
+algorithm was summarized [here](https://github.com/oicjacky/Statistical-Computing/blob/master/final%20exam/EM%20report/EM%20report.pdf).
