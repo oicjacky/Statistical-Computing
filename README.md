@@ -13,7 +13,7 @@ In this course, we will review the brief mathematical and statistical knowledge 
 [3]:https://github.com/oicjacky/Statistical-Computing/blob/master/hw03/hw03.pdf
 [4]:https://github.com/oicjacky/Statistical-Computing/blob/master/hw04/hw04.pdf
 
-2.  Density function estimation in the way of parametric and non-parametric (kernel method). Some discussion about mean integratrd square error(MISE). See [hw05](https://github.com/oicjacky/Statistical-Computing/blob/master/hw05/hw05(with%20writting).pdf).
+2.  Density function estimation in the way of parametric and non-parametric (kernel method). Some discussion about mean integratrd square error(MISE). See [hw05](https://github.com/oicjacky/Statistical-Computing/blob/master/hw05/hw05.pdf).
 
 3.  Finding the root of f(x) with fixed point iteration and Newton method. See [hw06][6], [hw07][7].
 
@@ -26,3 +26,6 @@ In this course, we will review the brief mathematical and statistical knowledge 
 [8]: https://github.com/oicjacky/Statistical-Computing/blob/master/hw08/hw08.pdf 
 [9]: https://github.com/oicjacky/Statistical-Computing/blob/master/hw09/hw09.pdf
 
+5.  Using EM algorithm to solve the maximum likelihood estimation (MLE). See [hw10](https://github.com/oicjacky/Statistical-Computing/blob/master/hw10/hw10.pdf).
+
+6.  final exam...
